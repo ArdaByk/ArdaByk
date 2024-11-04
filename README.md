@@ -1,26 +1,26 @@
 <div align="center">
   
-# 👋 Merhaba, Ben [Adınız]
+# 👋 Hi, I'm [Your Name]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/KULLANICI_ADINIZ)
-[![GitHub followers](https://img.shields.io/github/followers/KULLANICI_ADINIZ?style=social)](https://github.com/KULLANICI_ADINIZ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TWITTER_KULLANICI_ADINIZ?style=social)](https://twitter.com/TWITTER_KULLANICI_ADINIZ)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
 
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-🏢 **Şu anda:** [Şirket Adı]'da [Pozisyonunuz] olarak çalışıyorum  
-🎯 **Odak:** [Ana uzmanlık alanınız]  
-📚 **Öğreniyorum:** [Öğrenmekte olduğunuz teknolojiler]  
-💬 **Soru Sorun:** [Uzman olduğunuz konular]  
-⚡ **İlginç Gerçek:** [Kendinizle ilgili ilginç bir bilgi]
+🏢 **Currently:** Working as [Your Position] at [Company Name]  
+🎯 **Focus:** [Your Main Expertise]  
+📚 **Learning:** [Technologies you're learning]  
+💬 **Ask me about:** [Your areas of expertise]  
+⚡ **Fun fact:** [An interesting fact about you]
 
-## 💻 Teknoloji Yığını
+## 💻 Tech Stack
 
-### 👨‍💻 Programlama Dilleri
+### 👨‍💻 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
-### 🗄️ Veritabanları
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🛠 Araçlar & Platformlar
+### 🛠 Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -65,47 +65,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 GitHub İstatistikleri
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🌟 Öne Çıkan Projeler
-
-<div align="center">
-  <a href="https://github.com/KULLANICI_ADINIZ/proje1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADINIZ&repo=proje1&theme=radical" />
-  </a>
-  <a href="https://github.com/KULLANICI_ADINIZ/proje2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADINIZ&repo=proje2&theme=radical" />
-  </a>
-</div>
-
-## 📫 İletişim
-
-<p align="center">
-  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADINIZ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/TWITTER_KULLANICI_ADINIZ">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:EMAİL_ADRESİNİZ">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://WEBSİTENİZ">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+```typescript
+const currentFocus = {
+  learning: ['Microservices', 'Cloud Architecture', 'DevOps'],
+  reading: ['Clean Code', 'Design Patterns', 'System Design'],
+  projects: {
+    inProgress: 'Building a scalable e-commerce platform',
+    upcoming: 'AI-powered personal assistant',
+  },
+  goals: [
+    'Contribute to open source',
+    'Write technical blogs',
+    'Speak at tech conferences'
+  ]
+};
