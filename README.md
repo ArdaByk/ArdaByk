@@ -7,14 +7,9 @@
 
 - 🌱 I’m currently learning **Microservices Architecture**
 
-- 👨‍💻 All of my projects are available at [sdfsdfsd](sdfsdfsd)
-
-- 📝 I regularly write articles on [fsdfsd](fsdfsd)
-
-- 📄 Know about my experiences [fsdfgh](fsdfgh)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/arda_dev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda_dev0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
