@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEGU_hZtj1erg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730816469943?e=1736380800&v=beta&t=8A4SLbt-T8jbQC9mzRsNYWIXPVo2ZHBjy3pVjc3wDiI)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQH5FSujTgtCjg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730816599507?e=1736380800&v=beta&t=RLw17DeaSIEPtsm4d0rstGEA3N0bdHZ8UYioz-bCsSU)
 
 <div align="center">
   
