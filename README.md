@@ -1,22 +1,20 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Arda
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ardabyk)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/ardabyk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
 
 </div>
 
 ## 🚀 About Me
 
-🏢 **Currently:** Working as [Your Position] at [Company Name]  
-🎯 **Focus:** [Your Main Expertise]  
-📚 **Learning:** [Technologies you're learning]  
-💬 **Ask me about:** [Your areas of expertise]  
-⚡ **Fun fact:** [An interesting fact about you]
+🏢 **Currently:** Working as Software Developer at Neos  
+🎯 **Focus:** Programming  
+📚 **Learning:** Microservices Architecture
 
 ## 💻 Tech Stack
 
