@@ -75,14 +75,9 @@
 ```typescript
 const currentFocus = {
   learning: ['Microservices', 'Cloud Architecture', 'DevOps'],
-  reading: ['Clean Code', 'Design Patterns', 'System Design'],
-  projects: {
-    inProgress: 'Building a scalable e-commerce platform',
-    upcoming: 'AI-powered personal assistant',
-  },
-  goals: [
-    'Contribute to open source',
-    'Write technical blogs',
-    'Speak at tech conferences'
-  ]
+  reading: [
+    'Clean Code',
+    'Design Patterns',
+    'System Design'
+  ],
 };
