@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ArdaByk)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/ArdaByk)
+[![Profile Views](https://komarev.com/ghpvc/?username=ArdaByk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ArdaByk)
+[![GitHub followers](https://img.shields.io/github/followers/ArdaByk?style=social)](https://github.com/ArdaByk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
 
 </div>
