@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ArdaByk&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ArdaByk)
 [![GitHub followers](https://img.shields.io/github/followers/ArdaByk?style=social)](https://github.com/ArdaByk)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/691986311107837972)
+[![GitHub stars](https://img.shields.io/github/stars/ardabyk?style=social)](https://github.com/ardabyk?tab=repositories)
 
 </div>
 
