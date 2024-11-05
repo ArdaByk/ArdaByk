@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQH2gjvsPoxIqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730815815932?e=1736380800&v=beta&t=LMgZyfbRGvrcxTgk5Wg_709b1d8Y0dSv9ifwIDlLvog)
+
 <div align="center">
   
 # 👋 Hi, I'm Arda
