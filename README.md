@@ -75,7 +75,7 @@
 
 ```typescript
 const currentFocus = {
-  learning: ['Microservices', 'Cloud Architecture', 'DevOps'],
+  learning: ['Microservices', 'Clean Architecture', 'DevOps'],
   reading: [
     'Clean Code',
     'Design Patterns',
