@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQFKibTRNnpfkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730816829290?e=1736380800&v=beta&t=FtTpFLaNj8SGg9eJK6P-GeEGm6qtrw20R54VphEXE5M](https://media.licdn.com/dms/image/v2/D4D16AQFKibTRNnpfkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730816829290?e=1758153600&v=beta&t=h1005QyfQEsP-yDzQRPBjuxvisg7R_bx0KIkS7JAVq8))
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFKibTRNnpfkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730816829290?e=1736380800&v=beta&t=FtTpFLaNj8SGg9eJK6P-GeEGm6qtrw20R54VphEXE5M)
 
 <div align="center">
   
@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
